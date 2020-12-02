@@ -1,16 +1,23 @@
-# **Assignment Title**  
+# **Echo**  
 
 ## **Assignment Description**  
-
+Create a program that asks the user for input and repeats it back to them.
 
 ## **Examples**  
->
+>Please enter a word
+Apple  
+Apple
 
 ## **Limitations**  
+1 input statement
+1 print statement
 
 ## **Hints**  
+Your input statement to the user needs to be exactly "Please enter a word"  
+Use \n to start a new line
 
 ## **Concepts**  
+print, input
 
 ---
 
