@@ -4,7 +4,7 @@
 Create a program that asks the user for input and repeats it back to them.
 
 ## **Examples**  
->Please enter a word
+>Please enter a word  
 Apple  
 Apple
 
