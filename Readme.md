@@ -1,23 +1,22 @@
 # **Echo**  
 
 ## **Assignment Description**  
-Create a program that asks the user for input and repeats it back to them.
+Createa a function called echo() that returns a given word a given number of times.  
 
 ## **Examples**  
->Please enter a word  
-Apple  
-Apple
+>echo("hello", 5)  
+hellohellohellohellohello  
 
 ## **Limitations**  
-1 input statement
-1 print statement
+1 for loop  
+1 function  
+0 if  
 
 ## **Hints**  
-Your input statement to the user needs to be exactly "Please enter a word"  
-Use \n to start a new line
+You will need to create a variable inside of the function like you did with the SumBetween assignment.  
 
 ## **Concepts**  
-print, input
+Unit 1, Unit 2, for loops
 
 ---
 
