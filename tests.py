@@ -7,7 +7,7 @@ import datetime;
 
 year = 2021
 month = 9
-day = 4
+day = 24
 
 def test_code():
     assert main.echo("yo",2) == "yoyo", 'echo("yo", 2) failed'
